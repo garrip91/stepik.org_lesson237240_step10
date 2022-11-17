@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+GitHub_token.txt
+.env
+.pytest_cache/
+
